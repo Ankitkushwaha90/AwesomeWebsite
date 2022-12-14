@@ -1,0 +1,20 @@
+
+    .nav{
+        width: 100%;
+        z-index: 10;
+        height: 100vh;
+      }
+      .ht{
+        color: black;
+        position: absolute;
+      }
+      .uldt{
+          position: relative;
+      }
+      .uldt .li{
+        display: inline;
+      }
+      .uldt .li a{
+        color: white!important;
+        text-decoration: none;
+      }

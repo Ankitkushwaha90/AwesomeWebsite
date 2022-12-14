@@ -1,0 +1,24 @@
+
+.headersec{
+    width: 100vw;
+    position: relative;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.452) ,rgba(92, 92, 223, 0.61)) ,url(../img/pexels-august-de-richelieu-4427624.jpg);
+    clip-path: polygon(0 0, 100% 0, 100% 78%, 50% 100%, 1% 80%);
+}
+.btndesign{
+    color: white;
+    border-radius: 20px;
+    background-color: none;
+    border-color: linear-gradient(red, yellow)!important;
+    border: 2px solid ;
+    background-color: linear-gradient(red, yellow)!important;
+    padding: 0px 6px 0px 9px;    
+    height: 38px;
+    letter-spacing: 2px;
+}
+.texttitle{
+    margin: 200px auto;
+}
